@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ad17b3;
+    color: #0ddf29;
+}
+h1{
+    font-size: 3rem;
+    color: #39f00b;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+p{
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin: 20px 0;
+    column-rule-color: #0ddf29;
+}
+a{
+    font-size: 2rem;
+    color: #0bdd27;
+}
